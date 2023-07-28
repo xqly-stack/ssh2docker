@@ -1,5 +1,5 @@
 # ssh2docker
-A utility allowing the user to copy his ssh keys to a given devcontainer
+A utility allowing the user to copy ssh keys to a given devcontainer
 
 ## Usage
 ````bash
